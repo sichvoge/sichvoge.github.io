@@ -1,0 +1,89 @@
+- name:
+    detail: Mulesoft
+  desc:
+    detail: As a Community Product Manager at MuleSoft I take care of the API Tooling from design-time to exploration. I play the central role to create a channel between MuleSoft and its community across multiple channels. I work closely with PMs and Engineering across different areas coordinating cross product initiatives. Additionally, part of my job is also to proactively evangelize technology by speaking on conferences or writing blog articles.
+  date:
+    detail: November 2015 - now
+  job:
+    detail: Community Product Manager / Evangelist
+  icon: fa-home
+
+- name:
+    detail: MuleSoft
+  desc:
+    detail: As a Technical PreSales Engineer @ MuleSoft, I was responsible to help prospects and customers to understand our product offering and how we can help them to solve their problems.
+  date:
+    detail: August 2014 - November 2015
+  job:
+    detail: Technical Pre-Sales Engineer
+  icon: fa-check
+
+- name:
+    detail: Oracle
+  desc:
+    detail: As an Associate Technology Pre-Sales Consultant @ Oracle, I supported the sales organization in standard presales activities responsable for Middleware Technologies like SOA Suite in German and English.
+  date:
+    detail: November 2012 - July 2014
+  job:
+    detail: Associate Technology Pre-Sales Consultant
+  icon: fa-check
+
+- name:
+    detail: Robotron Datenbank-Software GmbH
+  desc:
+    detail: I mainly worked on backend systems, developing APIs with Java and OSGi.
+  date:
+    detail: April 2012 - October 2012
+  job:
+    detail: Working Student
+  icon: fa-check
+
+- name:
+    detail: Dresden University of Technology
+  desc:
+    detail: I mainly worked on implementing different clustering algorithms including some visualization using Java and C++.
+  date:
+    detail: November 2009 - March 2012
+  job:
+    detail: Student Assistent
+  icon: fa-check
+
+- name:
+    detail: Siemens
+  desc:
+    detail: I developed a web application using the .Net framework.
+  date:
+    detail: February 2009 - March 2011
+  job:
+    detail: Working Student
+  icon: fa-check
+
+- name:
+    detail: Saxonia Systems AG
+  desc:
+    detail: I mainly worked on supporting teams in their implementation phase building OSGi bundles.
+  date:
+    detail: 2011
+  job:
+    detail: Working Student
+  icon: fa-check
+
+- name:
+    detail: Dresden University of Technology
+  desc:
+    detail: In October 2009, I decided to do a deep dive into Software Technology at the Dresden University of Technology. After 3 years, getting the necessary theoretical knowledge, I moved on and applied for a Job at Oracle. In November 2012, I started my journey into the professional world of technology. 
+  date:
+    detail: November 2012
+  job:
+    detail: Student
+  icon: fa-book
+
+- name:
+    detail: Graduation
+  desc:
+    detail: At July 2009, I graduated from university.
+  date:
+    detail: July 2009
+  job:
+    detail: Student
+  icon: fa-book

@@ -1,0 +1,45 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Me"
+description: "Christian's blog."
+keywords: "christian,vogel,blog,apis"
+baseurl: "/"
+url: "http://www.christian-vogel.me"
+# url: "http://127.0.0.1:4000"
+
+# author
+author:
+  name: 'Christian'
+  first_name: 'Christian'
+  last_name: 'Vogel'
+  email: 'me@christian-vogel.me'
+  github: 'sichvoge'
+  linkedin: 'vogelchristian'
+  xing: 'Christian_Vogel110'
+  head_img: 'static/img/landing/Christian.jpg'
+  desc: 'Technology Enthusiast being utterly excited about APIs | RAML | Development | Product Management'
+
+# localization
+languages:
+  - locale: 'en'
+    flag: 'static/img/flags/United-States.png'
+
+# comment
+disqus:
+  name: christianvogel
+  public_key: MW1oCt6uA9KbCLMQCs04tfDH53y0bIpCXj4ZewKXGO22RPNznIRe6snixxwkFyiQ
+
+# google analytics
+ga:
+  # id:
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
