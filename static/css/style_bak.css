@@ -3756,10 +3756,6 @@ code {
   background-color: #ffffff;
   color: inherit;
   padding: 15px 20px 20px 20px;
-  border-color: #e7eaec;
-  border-image: none;
-  border-style: solid solid none;
-  border-width: 1px 0;
 }
 .ibox-footer {
   color: inherit;
@@ -6617,7 +6613,7 @@ body.landing-page {
   transition: all 0.3s ease-in-out 0s;
 }
 .landing-page .navbar-default .nav li a {
-  color: #fff;
+  color: #000;
   font-family: 'Open Sans', helvetica, arial, sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
@@ -6631,7 +6627,7 @@ body.landing-page {
 .landing-page .navbar-default .navbar-nav > .active > a,
 .landing-page .navbar-default .navbar-nav > .active > a:hover {
   background: transparent;
-  color: #fff;
+  color: #000;
   border-top: 6px solid #1ab394;
 }
 .landing-page .navbar-default .navbar-nav > li > a:hover,
@@ -6641,11 +6637,11 @@ body.landing-page {
 }
 .landing-page .navbar-default .navbar-nav > .active > a:focus {
   background: transparent;
-  color: #fff;
+  color: #000;
 }
 .landing-page .navbar-default .navbar-nav > .active > a:focus {
   background: transparent;
-  color: #ffffff;
+  color: #000;
 }
 .landing-page .navbar-default.navbar-scroll .navbar-nav > .active > a:focus {
   background: transparent;
@@ -6705,16 +6701,6 @@ body.landing-page {
   font-size: 12px;
   padding: 10px;
   height: auto;
-}
-.landing-page .header-back {
-  height: 470px;
-  width: 100%;
-}
-.landing-page .header-back.one {
-  background: url('../img/landing/header_one.jpg') 50% 0 no-repeat;
-}
-.landing-page .header-back.two {
-  background: url('../img/landing/header_two.jpg') 50% 0 no-repeat;
 }
 .landing-page .carousel {
   height: 470px;
