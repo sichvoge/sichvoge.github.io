@@ -13,11 +13,10 @@
                 <img src="{{ site.author.head_img | prepend: site.baseurl }}" height="110" width="110" class="img-responsive img-circle" alt="">
                 <h4>{{ site.author.first_name }} {{ site.author.last_name }}</h4>
                 <ul class="list-inline social-icon">
-                    <li><a href="https://github.com/{{ site.author.github }}" target="blank"><i class="fa fa-github"></i></a></li>
-                    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
-                    <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="https://www.xing.com/profile/{{ site.author.xing }}" target="blank"><i class="fa fa-xing"></i></a></li>
-                    <li><a href="{{ site.url}}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
+                    <li><a href="https://github.com/{{ site.author.github }}" target="blank"><i class="fa fa-github" title="Github"></i></a></li>
+                    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o" title="Email"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="blank"><i class="fa fa-linkedin" title="LinkedIn"></i></a></li>
+                    <li><a href="{{ site.author.blog }}" target="blank"><i class="fa fa-rss" title="Blog"></i></a></li>
                 </ul>
             </div>
         </div>

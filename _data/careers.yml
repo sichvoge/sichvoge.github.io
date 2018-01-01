@@ -1,17 +1,41 @@
 - name:
+    detail: CoreOS
+  desc:
+    detail:
+      <ul>
+        <li>Managing product roadmap and strategy for CoreOS Monitoring and Installer solution.</li>
+      </ul> 
+  date:
+    detail: November 2017 - now
+  job:
+    detail: Product Manager
+  icon: fa-home
+
+- name:
     detail: Mulesoft
   desc:
-    detail: As a Community Product Manager at MuleSoft I take care of the API Tooling from design-time to exploration. I play the central role to create a channel between MuleSoft and its community across multiple channels. I work closely with PMs and Engineering across different areas coordinating cross product initiatives. Additionally, part of my job is also to proactively evangelize technology by speaking on conferences or writing blog articles.
+    detail: |
+      <ul>
+        <li>Prioritized and defined product roadmap and strategy.</li>
+        <li>Led several 3-10-member teams in three different geographies.</li>
+        <li>Responsible for shipping new major versions for API designer and API console, and platform-wide RAML 1.0 support.</li>
+        <li>Planned and managed release for RAML 1.0 inside the Anypoint Platform.</li>
+      </ul>
   date:
-    detail: November 2015 - now
+    detail: November 2015 - November 2017
   job:
-    detail: Community Product Manager / Evangelist
-  icon: fa-home
+    detail: Community Product Manager (Office of the CTO)
+  icon: fa-check
 
 - name:
     detail: MuleSoft
   desc:
-    detail: As a Technical PreSales Engineer @ MuleSoft, I was responsible to help prospects and customers to understand our product offering and how we can help them to solve their problems.
+    detail: |
+      <ul>
+        <li>Achieved over 100% of the YTD quota.</li>
+        <li>Awarded with the “Step-In Award” showing fast adaption to new technologies by running a full conference booth including presentations in the first month of my employment.</li>
+        <li>Became subject matter expert for API management tooling.</li>
+      </ul>
   date:
     detail: August 2014 - November 2015
   job:
@@ -21,7 +45,12 @@
 - name:
     detail: Oracle
   desc:
-    detail: As an Associate Technology Pre-Sales Consultant @ Oracle, I supported the sales organization in standard presales activities responsable for Middleware Technologies like SOA Suite in German and English.
+    detail: |
+      <ul>
+        <li>Built and delivered product demonstrations and presentations.</li>
+        <li>Got highest possible satisfaction grade for supporting sales critical projects.</li>
+        <li>Awarded with the Top Rookie of H1 FY13 Award.</li>
+      </ul>
   date:
     detail: November 2012 - July 2014
   job:
@@ -29,43 +58,18 @@
   icon: fa-check
 
 - name:
-    detail: Robotron Datenbank-Software GmbH
+    detail: Several programming-oriented jobs during studies 
   desc:
-    detail: I mainly worked on backend systems, developing APIs with Java and OSGi.
+    detail: |
+      <ul>
+        <li>Built front- and backend-apps in C#/.Net or Java.</li>
+        <li>Organized small to mid-size workshops.</li>
+        <li>Companies included Microsoft and Siemens.</li>
+      </ul>
   date:
-    detail: April 2012 - October 2012
+    detail: 2009 - 2012
   job:
-    detail: Working Student
-  icon: fa-check
-
-- name:
-    detail: Dresden University of Technology
-  desc:
-    detail: I mainly worked on implementing different clustering algorithms including some visualization using Java and C++.
-  date:
-    detail: November 2009 - March 2012
-  job:
-    detail: Student Assistent
-  icon: fa-check
-
-- name:
-    detail: Siemens
-  desc:
-    detail: I developed a web application using the .Net framework.
-  date:
-    detail: February 2009 - March 2011
-  job:
-    detail: Working Student
-  icon: fa-check
-
-- name:
-    detail: Saxonia Systems AG
-  desc:
-    detail: I mainly worked on supporting teams in their implementation phase building OSGi bundles.
-  date:
-    detail: 2011
-  job:
-    detail: Working Student
+    detail: Working Student/Student Partner
   icon: fa-check
 
 - name:
